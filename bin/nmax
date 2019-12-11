@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'nmax'
+
+puts Nmax.maximum_numbers(ARGV.shift.to_i, STDIN.read())
