@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/GhostOfJerry/nmax.svg?branch=master)](https://travis-ci.com/GhostOfJerry/nmax)
+
 Напишите скрипт nmax, который делает следующее:
 
 * читает из входящего потока текстовые данные;
